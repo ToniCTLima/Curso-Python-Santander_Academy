@@ -1,0 +1,12 @@
+1.2. Seu primeiro programa Python
+
+
+"Olá Mundo"
+É uma tradição no mundo da programação começar com um programa simples chamado "Olá Mundo". Este programa simplesmente mostra a mensagem "Olá Mundo" na tela. 
+
+Abra seu IDE ou editor de texto preferido e crie um novo arquivo.
+Nomeie o arquivo como "ola_mundo.py". A extensão ".py" indica que é um arquivo de Python. 
+No arquivo, escreva o seguinte código:
+print ("Olá, Mundo!")
+Salve o arquivo e execute o programa. Se estiver utilizando um IDE, procure a opção "Run" ou "Execute". 
+Você verá que a mensagem "Olá, Mundo!" é impressa na tela.
