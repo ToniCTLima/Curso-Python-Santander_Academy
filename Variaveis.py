@@ -1,0 +1,1 @@
+# As variáveis são contêineres que nos permitem armazenar e manipular dados em nossos programas. Você pode pensar em uma variável como uma etiqueta à qual você atribui um valor específico. Em Python, não é necessário declarar o tipo de dados de uma variável com antecedência, pois o Python infere o tipo de dados automaticamente com base no valor atribuído.
