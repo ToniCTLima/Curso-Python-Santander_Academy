@@ -43,6 +43,4 @@ Os parênteses são utilizadas para agrupar expressões, definir funções e rea
 
 resultado = (a + b) * c
 
-
-
 """
